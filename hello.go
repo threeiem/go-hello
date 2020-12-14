@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"log"
 
-	"rsc.io/quote"
 	"github.com/threeiem/go-greeting"
 )
 
