@@ -2,6 +2,8 @@ github.com/threeiem/go-greeting v0.0.1 h1:8gxkKMS51LEUPcfHvgC7ysD3SXR1MuFTd9OruE
 github.com/threeiem/go-greeting v0.0.1/go.mod h1:/n074KMM4YBO5lWaz9to2ABrVnHH7ybolPw7DTNisGo=
 github.com/threeiem/go-greeting v0.0.4 h1:t1QrjOSvQ/zmky6+e8Tc9pjrzM3owF2t5yw7YJjxeTE=
 github.com/threeiem/go-greeting v0.0.4/go.mod h1:/n074KMM4YBO5lWaz9to2ABrVnHH7ybolPw7DTNisGo=
+github.com/threeiem/go-greeting v0.0.5-alpha h1:tkkVc+aalGhKMgBH/5FbAznietm5gga4mdEydQmjoQk=
+github.com/threeiem/go-greeting v0.0.5-alpha/go.mod h1:/n074KMM4YBO5lWaz9to2ABrVnHH7ybolPw7DTNisGo=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 rsc.io/quote v1.5.2 h1:w5fcysjrx7yqtD/aO+QwRjYZOKnaM9Uh2b40tElTs3Y=
